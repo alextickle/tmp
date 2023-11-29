@@ -1,6 +1,6 @@
 import React from 'react';
 
-const WeatherData = ({ city }) => {
+const CurrentWeather = ({ city }) => {
 
     return (
         <div>
@@ -9,4 +9,4 @@ const WeatherData = ({ city }) => {
     );
 };
 
-export default WeatherData;
+export default CurrentWeather;
